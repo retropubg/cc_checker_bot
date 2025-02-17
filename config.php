@@ -14,3 +14,4 @@ if (!defined('DB_DATABASE')) define('DB_DATABASE', 'sql5762304');
 if (!defined('DB_HOST')) define('DB_HOST', 'sql5.freesqldatabase.com:3306');
 if (!defined('DB_USERNAME')) define('DB_USERNAME', 'sql5762304');
 if (!defined('DB_PASSWORD')) define('DB_PASSWORD', 'ZU6GYaPTTj');
+?>
